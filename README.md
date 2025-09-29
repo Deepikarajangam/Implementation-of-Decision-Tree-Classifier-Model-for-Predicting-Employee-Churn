@@ -47,6 +47,8 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 <img width="683" height="372" alt="image" src="https://github.com/user-attachments/assets/a166c835-3b61-4fe3-abfd-4de79194a323" />
 <img width="663" height="364" alt="image" src="https://github.com/user-attachments/assets/df7237ca-f713-4513-abb5-54d68804d7e5" />
 
+
+
 <img width="298" height="84" alt="image" src="https://github.com/user-attachments/assets/7f397a3f-00b5-4b14-ac76-fada6053614b" />
 
 
